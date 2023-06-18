@@ -24,7 +24,7 @@
 ![WhatsApp Image 2023-06-18 at 17 36 25 (2)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/bc98e44b-5880-4b5e-874d-5468706f305e)
 #### --RUNNING:
 ![WhatsApp Image 2023-06-18 at 17 36 25 (1)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/8657ca8c-07c7-495e-ac53-2c4ea57c1016)
-#### Historic:
+#### Historical:
 ![WhatsApp Image 2023-06-18 at 17 36 25 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/01ab0768-bf50-4e7a-bd97-9cc3f3a44728)
 
 
