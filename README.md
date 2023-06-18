@@ -1,0 +1,13 @@
+# Client-Activity-Recognition-Android
+![WhatsApp Image 2023-06-18 at 17 36 24](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/d0a13234-ff84-43c9-b59a-03a4d54c8052)
+![WhatsApp Image 2023-06-18 at 17 36 36](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/8232355b-6b0c-41ac-be68-21843ba9f28a)
+![WhatsApp Image 2023-06-18 at 17 36 25 (5)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/60a99ffe-43d8-459c-aa15-27f868f6ed99)
+![WhatsApp Image 2023-06-18 at 17 36 25 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/4c24c3e4-30d0-4379-b3b2-9c2d3efafa7e)
+![WhatsApp Image 2023-06-18 at 17 36 25 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/909fcc66-f372-4783-b957-231976112e02)
+![WhatsApp Image 2023-06-18 at 17 36 25 (2)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/eb16dbae-a539-432c-8670-975c986cd741)
+![WhatsApp Image 2023-06-18 at 17 36 25 (1)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/9f10a727-d5e1-476d-8982-7269001783d2)
+![WhatsApp Image 2023-06-18 at 17 36 25](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/fa2281bd-2e4b-472d-8c27-f5fa187b91a0)
+![WhatsApp Image 2023-06-18 at 17 36 24 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/7a5fc4a3-992c-4fef-9cc9-79a31018d86d)
+![WhatsApp Image 2023-06-18 at 17 36 24 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/b0e4a4f6-6bf2-474e-9f35-e45e1d6e46f1)
+![WhatsApp Image 2023-06-18 at 17 36 24 (2)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/c53cbd2e-556c-4942-bbb0-695650f82f68)
+![WhatsApp Image 2023-06-18 at 17 36 24 (1)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/a9e0f12b-c386-420f-852d-1239b4674193)
