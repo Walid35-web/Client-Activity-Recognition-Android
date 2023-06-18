@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".HomeActivity"
+    android:backgroundTint="@color/white">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Welcome "
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#147EAE"
+        android:textSize="30sp"
+        android:textStyle="bold|italic" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="218dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/profile_image"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:src="@drawable/myprofile" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Edit Profil"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:gravity="center">
+                <ImageButton
+                    android:id="@+id/logout"
+                    android:layout_width="118dp"
+                    android:layout_height="81dp"
+                    android:layout_margin="10dp"
+                    android:backgroundTint="@color/white"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/out" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="3dp"
+                    android:text="Logout"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="313dp"
+        android:layout_height="170dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="169dp"
+            android:layout_height="379dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/my_activity"
+                android:layout_width="133dp"
+                android:layout_height="130dp"
+                android:layout_margin="10dp"
+                android:backgroundTint="@color/white"
+                android:scaleType="fitCenter"
+                android:src="@drawable/activity" />
+
+            <TextView
+                android:layout_width="116dp"
+                android:layout_height="46dp"
+                android:layout_marginTop="3dp"
+                android:text="My Activity"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="125dp"
+            android:layout_height="187dp"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/my_location"
+                android:layout_width="167dp"
+                android:layout_height="123dp"
+                android:layout_margin="10dp"
+                android:backgroundTint="@color/white"
+                android:scaleType="fitCenter"
+                android:src="@drawable/location" />
+
+            <TextView
+                android:layout_width="88dp"
+                android:layout_height="54dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="15dp"
+                android:text="Location"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="374dp"
+        android:layout_height="201dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="120dp"
+            android:layout_marginRight="80dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/activities_history"
+                android:layout_width="117dp"
+                android:layout_height="104dp"
+                android:layout_margin="10dp"
+                android:backgroundTint="@color/white"
+                android:scaleType="fitCenter"
+                android:src="@drawable/history" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_marginTop="3dp"
+                android:text="Activities History"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
