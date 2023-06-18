@@ -13,7 +13,7 @@
 ![WhatsApp Image 2023-06-18 at 17 36 24 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/e6de95e7-8196-449a-b113-3d8be19fddb1)
 #### Edit Profile:
 ![WhatsApp Image 2023-06-18 at 17 36 25 (5)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/6a2cd299-1daa-44e7-aaac-a485752a5e22)
-#### Home without your informations:
+#### Home with your informations:
 ![WhatsApp Image 2023-06-18 at 17 36 25 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/b4769b69-a273-4098-86ff-44bc202fc58d)
 #### Maps:
 ![WhatsApp Image 2023-06-18 at 17 36 24 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/ef068bdd-273b-4edc-936f-12ff7b4bcd64)
