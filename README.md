@@ -1,13 +1,30 @@
 # Client-Activity-Recognition-Android
-![WhatsApp Image 2023-06-18 at 17 36 24](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/d0a13234-ff84-43c9-b59a-03a4d54c8052)
-![WhatsApp Image 2023-06-18 at 17 36 36](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/8232355b-6b0c-41ac-be68-21843ba9f28a)
-![WhatsApp Image 2023-06-18 at 17 36 25 (5)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/60a99ffe-43d8-459c-aa15-27f868f6ed99)
-![WhatsApp Image 2023-06-18 at 17 36 25 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/4c24c3e4-30d0-4379-b3b2-9c2d3efafa7e)
-![WhatsApp Image 2023-06-18 at 17 36 25 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/909fcc66-f372-4783-b957-231976112e02)
-![WhatsApp Image 2023-06-18 at 17 36 25 (2)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/eb16dbae-a539-432c-8670-975c986cd741)
-![WhatsApp Image 2023-06-18 at 17 36 25 (1)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/9f10a727-d5e1-476d-8982-7269001783d2)
-![WhatsApp Image 2023-06-18 at 17 36 25](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/fa2281bd-2e4b-472d-8c27-f5fa187b91a0)
-![WhatsApp Image 2023-06-18 at 17 36 24 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/7a5fc4a3-992c-4fef-9cc9-79a31018d86d)
-![WhatsApp Image 2023-06-18 at 17 36 24 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/b0e4a4f6-6bf2-474e-9f35-e45e1d6e46f1)
-![WhatsApp Image 2023-06-18 at 17 36 24 (2)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/c53cbd2e-556c-4942-bbb0-695650f82f68)
-![WhatsApp Image 2023-06-18 at 17 36 24 (1)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/a9e0f12b-c386-420f-852d-1239b4674193)
+Icon of the APP:
+![WhatsApp Image 2023-06-18 at 17 36 36](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/030eb147-1c8d-48ec-96d2-587f58ab78d5)
+Login:
+![WhatsApp Image 2023-06-18 at 17 36 24](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/2f948a8a-3353-4ae3-a459-4bac29931b8f)
+Sing up:
+![WhatsApp Image 2023-06-18 at 17 36 24 (1)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/65b1bdd8-5fc8-4c01-9f5c-e6cd25c3477e)
+Profile:
+![WhatsApp Image 2023-06-18 at 17 36 24 (2)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/9804b0ee-c73c-421d-a0c4-60e0f386409d)
+Profile if you click of cancel : 
+![WhatsApp Image 2023-06-18 at 17 36 24 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/de7e3e97-1429-425a-bd32-88530fd8a156)
+Home without your informations:
+![WhatsApp Image 2023-06-18 at 17 36 24 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/e6de95e7-8196-449a-b113-3d8be19fddb1)
+Edit Profile:
+![WhatsApp Image 2023-06-18 at 17 36 25 (5)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/6a2cd299-1daa-44e7-aaac-a485752a5e22)
+Home without your informations:
+![WhatsApp Image 2023-06-18 at 17 36 25 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/b4769b69-a273-4098-86ff-44bc202fc58d)
+Maps:
+![WhatsApp Image 2023-06-18 at 17 36 24 (4)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/ef068bdd-273b-4edc-936f-12ff7b4bcd64)
+Activity:
+--STANDING:
+![WhatsApp Image 2023-06-18 at 17 36 25](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/24e08706-3ac4-4c23-8420-66e08c0ee6ab)
+--WALKING:
+![WhatsApp Image 2023-06-18 at 17 36 25 (2)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/bc98e44b-5880-4b5e-874d-5468706f305e)
+--RUNNING:
+![WhatsApp Image 2023-06-18 at 17 36 25 (1)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/8657ca8c-07c7-495e-ac53-2c4ea57c1016)
+Historic:
+![WhatsApp Image 2023-06-18 at 17 36 25 (3)](https://github.com/Walid35-web/Client-Activity-Recognition-Android/assets/85175578/01ab0768-bf50-4e7a-bd97-9cc3f3a44728)
+
+
